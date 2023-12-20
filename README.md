@@ -12,6 +12,6 @@ Os atributos escolhidos para a aplicação do trabalho foram:
 
 - [**Simplicidade**](./Caracteristicas/Simplicidade.md);
 - **Elegancia**;
-- **Modularidade**;
+- [**Modularidade**](./Caracteristicas/Modularidade.md);;
 - [**Boa documentação**](./Caracteristicas/Boa_documentacao.md);
-- **Ausencia de duplicidade**;
+- [**Ausencia de duplicidade**](./Caracteristicas/Ausencia_de_duplicidade.md);
