@@ -11,7 +11,7 @@ Por fim, se faz necessário especificar o conceito definido para *“code smell�
 Os atributos escolhidos para a aplicação do trabalho foram:
 
 - [**Simplicidade**](./Caracteristicas/Simplicidade.md);
-- Elegancia;
-- Modularidade;
-- [Boa documentação](./Caracteristicas/Boa_documentacao.md);
-- Ausencia de duplicidade;
+- **Elegancia**;
+- **Modularidade**;
+- [**Boa documentação**](./Caracteristicas/Boa_documentacao.md);
+- **Ausencia de duplicidade**;
