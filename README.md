@@ -8,9 +8,9 @@ Por fim, se faz necessário especificar o conceito definido para *“code smell�
 
 ## Características escolhidas (Execução do trabalho)
 
-Os atributos escolhidos para a aplicação do trabalho foram;
+Os atributos escolhidos para a aplicação do trabalho foram:
 
-- Simplicidade;
+- [**Simplicidade**](./Caracteristicas/Simplicidade.md);
 - Elegancia;
 - Modularidade;
 - Boa documentação;
